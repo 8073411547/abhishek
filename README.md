@@ -1,1 +1,1 @@
-<p>gpt collage</p>
+gpt
